@@ -1,2 +1,4 @@
 # Projeto-de-Software
-lasjdkfjasdkfjiiij
+Grupo - Lucas
+      - Nasser
+      - Pedro
